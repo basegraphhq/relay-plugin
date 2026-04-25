@@ -61,7 +61,7 @@ A relay carries something forward. Your decisions, your reasoning, your context 
 
 ## Built by
 
-[Basegraph](https://basegraph.co) — we're also building **Touchbase**, the Work OS for AI Native Companies. (Stealth.)
+[Basegraph](https://basegraph.co) — we're also building **Touchbase**, the Work OS for AI Native Companies. (Stealth)
 
 We make Relay free because we think every Claude Code user deserves a thinking partner. If you want to know when Touchbase ships, drop your email at [basegraph.co/plugin](https://basegraph.co/plugin).
 
