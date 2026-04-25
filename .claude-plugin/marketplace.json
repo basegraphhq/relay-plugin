@@ -12,12 +12,12 @@
       "name": "relay",
       "source": "./",
       "description": "Your Claude Code becomes Relay — listens before proposing, captures decisions in your repo, fully local.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Basegraph",
         "email": "nithinsj@basegraph.co"
       },
-      "homepage": "https://basegraph.co/relay",
+      "homepage": "https://basegraph.co/plugin",
       "repository": "https://github.com/basegraphhq/relay-plugin",
       "license": "MIT",
       "category": "workflow",

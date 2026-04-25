@@ -63,7 +63,7 @@ A relay carries something forward. Your decisions, your reasoning, your context 
 
 [Basegraph](https://basegraph.co) — building the engineer for every department.
 
-We make Relay free because we think every Claude Code user deserves a thinking partner. If you want to know what we're building next, drop your email at [basegraph.co/relay](https://basegraph.co/relay).
+We make Relay free because we think every Claude Code user deserves a thinking partner. If you want to know what we're building next, drop your email at [basegraph.co/plugin](https://basegraph.co/plugin).
 
 ## Contributing
 
