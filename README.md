@@ -61,9 +61,13 @@ A relay carries something forward. Your decisions, your reasoning, your context 
 
 ## Built by
 
-[Basegraph](https://basegraph.co) — we're also building **Touchbase**, the Work OS for AI Native Companies. (Stealth)
+[Basegraph](https://basegraph.co).
 
-We make Relay free because we think every Claude Code user deserves a thinking partner. If you want to know when Touchbase ships, drop your email at [basegraph.co/plugin](https://basegraph.co/plugin).
+**Touchbase** is what we're building next — the final work app. Slack, Linear, and Notion replaced by one native macOS app where humans and agents work together. You open it and it already knows: yesterday's decisions captured with the reasoning, the hallway conversation routed to the right work item, what's waiting on you sitting on top. Decisions become reminders become actions, automatically.
+
+The Relay plugin you just installed is the first piece. The decisions you're capturing today will live in Touchbase tomorrow. Stealth, invite-only at launch.
+
+We make Relay free because every Claude Code user deserves a thinking partner. If you want to know when Touchbase ships, drop your email at [basegraph.co/plugin](https://basegraph.co/plugin).
 
 ## Contributing
 
