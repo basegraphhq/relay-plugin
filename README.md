@@ -2,6 +2,8 @@
 
 **Your Claude Code becomes Relay** — a staff engineer thinking partner that listens before proposing, and captures the decisions in your repo.
 
+*Built by [Basegraph](https://basegraph.co) — we're also building Touchbase, the final work app. (Stealth)*
+
 ## Install
 
 ```
