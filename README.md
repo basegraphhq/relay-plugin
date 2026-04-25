@@ -65,9 +65,9 @@ A relay carries something forward. Your decisions, your reasoning, your context 
 
 **Touchbase** is what we're building next — the final work app. Slack, Linear, and Notion replaced by one native macOS app where humans and agents work together. You open it and it already knows: yesterday's decisions captured with the reasoning, the hallway conversation routed to the right work item, what's waiting on you sitting on top. Decisions become reminders become actions, automatically.
 
-The Relay plugin you just installed is the first piece. The decisions you're capturing today will live in Touchbase tomorrow. Stealth, invite-only at launch.
+Stealth, invite-only at launch — we're showing it to a handful of people genuinely curious about what comes after Slack and Linear. If that's you, [book a 15-min call](https://cal.com/nithinsj) (no pitch — we want to know what you'd want from this) or [drop your email](https://basegraph.co/plugin) and we'll let you know when it ships.
 
-We make Relay free because every Claude Code user deserves a thinking partner. If you want to know when Touchbase ships, drop your email at [basegraph.co/plugin](https://basegraph.co/plugin).
+Relay's free because every Claude Code user deserves a thinking partner.
 
 ## Contributing
 
