@@ -1,0 +1,27 @@
+{
+  "name": "basegraph",
+  "owner": {
+    "name": "Basegraph",
+    "email": "nithinsj@basegraph.co"
+  },
+  "metadata": {
+    "description": "Relay — staff engineer thinking partner for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "relay",
+      "source": "./",
+      "description": "Your Claude Code becomes Relay — listens before proposing, captures decisions in your repo, fully local.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Basegraph",
+        "email": "nithinsj@basegraph.co"
+      },
+      "homepage": "https://basegraph.co/relay",
+      "repository": "https://github.com/basegraphhq/relay-plugin",
+      "license": "MIT",
+      "category": "workflow",
+      "tags": ["thinking-partner", "planning", "decisions"]
+    }
+  ]
+}

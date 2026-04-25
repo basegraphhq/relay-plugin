@@ -1,0 +1,19 @@
+{
+  "name": "relay",
+  "version": "1.0.0",
+  "description": "Your Claude Code becomes Relay — a staff engineer thinking partner that listens before proposing, and captures decisions in your repo.",
+  "author": {
+    "name": "Basegraph",
+    "email": "nithinsj@basegraph.co"
+  },
+  "homepage": "https://basegraph.co/relay",
+  "repository": "https://github.com/basegraphhq/relay-plugin",
+  "license": "MIT",
+  "keywords": [
+    "thinking-partner",
+    "decisions",
+    "planning",
+    "output-style",
+    "staff-engineer"
+  ]
+}
