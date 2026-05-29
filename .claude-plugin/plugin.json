@@ -1,7 +1,7 @@
 {
   "name": "relay",
-  "version": "1.0.1",
-  "description": "Your Claude Code becomes Relay — a staff engineer thinking partner that listens before proposing, and captures decisions in your repo.",
+  "version": "1.0.2",
+  "description": "Your Claude Code becomes Relay -- a staff engineer thinking partner that listens before proposing.",
   "author": {
     "name": "Basegraph",
     "email": "nithinsj@basegraph.co"
