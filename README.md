@@ -43,9 +43,9 @@ Existing `.relay` folders can stay on disk. Relay ignores them by default.
 
 One piece, bundled in this plugin:
 
-1. **Output style** (`prompts/relay-planner.md`) -- the behavioral contract that shapes how Claude responds. Auto-injected at session start via a hook, so you never have to pick it manually.
+1. **Output style** (`prompts/relay-planner.md`) -- the behavioral contract that shapes how Claude responds.
 
-That's the entire active plugin: a tiny SessionStart hook and one prompt file. `hooks/stop.py` is kept as a no-op for compatibility with older installs.
+After installing, select it once with `/output-style` and pick **Relay Planner**. That's the entire plugin: a single prompt file, no hooks, no scripts.
 
 ## Why "Relay"
 
